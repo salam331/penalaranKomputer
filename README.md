@@ -1,16 +1,16 @@
 # Case-Based Reasoning (CBR) System untuk Analisis Putusan Pengujian Undang-Undang dan Perselisihan Hasil Pemilu (PUU–PHPU) dari Mahkamah Konstitusi (MK)
 
-Sistem **Case-Based Reasoning (CBR)** untuk menganalisis dan memprediksi putusan perkara hukum pada domain **sengketa pertanahan**.
+Sistem **Case-Based Reasoning (CBR)** untuk menganalisis dan memprediksi putusan perkara hukum pada domain **PUU-PHPU**.
 
 ## Deskripsi Proyek
 
 Sistem bekerja dengan tahapan lengkap CBR:
 
-1. **Case Base Construction** – pengumpulan data putusan
-2. **Case Representation** – ekstraksi & struktur data
-3. **Case Retrieval** – TF-IDF + cosine similarity
-4. **Case Reuse** – pengambilan solusi dari kasus mirip
-5. **Evaluation** – pengukuran performa model
+1. **01_Case Base Construction** – pengumpulan data putusan
+2. **02_Case Representation** – ekstraksi & struktur data
+3. **03_Case Retrieval** – TF-IDF + cosine similarity
+4. **04_Case Reuse** – pengambilan solusi dari kasus mirip
+5. **05_Evaluation** – pengukuran performa model
 
 ## 📂 Struktur Project
 ![alt text](imageStruktur/image.png)

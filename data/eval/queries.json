@@ -1,0 +1,12 @@
+[
+    {
+        "query_id": 1,
+        "query": "pengujian undang undang kehutanan",
+        "ground_truth": "case_002"
+    },
+    {
+        "query_id": 2,
+        "query": "perselisihan hasil pemilu presiden",
+        "ground_truth": "case_010"
+    }
+]

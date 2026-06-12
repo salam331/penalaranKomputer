@@ -13,9 +13,7 @@ Sistem bekerja dengan tahapan lengkap CBR:
 5. **Evaluation** – pengukuran performa model
 
 ## 📂 Struktur Project
-
-
-![alt text](image.png)
+![alt text](imageStruktur/image.png)
 
 ## ⚙️ Instalasi Project
 
